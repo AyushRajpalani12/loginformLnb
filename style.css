@@ -4,7 +4,7 @@
 }
 body{
          background-color:black ;
-         /* margin: 200px; */
+        
 }
 /* img{
          width: 1000px;
@@ -17,6 +17,8 @@ h1{
          /* margin: 100px; */
          /* font-size: larger; */
          transition: 1.5s;
+
+         transform: rotate(360deg) scale(1.4);
          border: 5px red solid;
 }
 label{
@@ -55,6 +57,7 @@ input{
          border-radius: 22px 22px 22px 22px ;
          /* box-shadow: 100px; */
          transition:  1.5s ;
+         transform: rotate(360deg) scale(1.4);
 }
 .button{
          width: 106px;
